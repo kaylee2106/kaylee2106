@@ -3,7 +3,7 @@
 
 **kaylee2106/kaylee2106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
+- Currently a volunteer at a charity shop 
 -I am currently a student, and am doing my A levels in Maths, Economics and Business
 -My current goal is to go to the UCL and study economics and finance and pursue a career in that sector
 
